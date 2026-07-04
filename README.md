@@ -13,7 +13,7 @@ This project implements a text classification model to automatically detect and 
 
 ## Key Results
 - **Model:** Naive Bayes
-- **Accuracy:** [درصد دقت خودت را اینجا بنویس]
+- **Accuracy:** 0.979
 - **Key Metrics:** Confusion Matrix, Precision, and Recall.
 
 ## How to Run
