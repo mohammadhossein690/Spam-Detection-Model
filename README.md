@@ -1,4 +1,4 @@
-📧 Intelligent Spam Detection using NLP
+# 📧 Intelligent Spam Detection using NLP
 
 This project implements a text classification model to automatically detect and filter spam messages using the **Naive Bayes** algorithm.
 
