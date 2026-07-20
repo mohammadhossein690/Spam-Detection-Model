@@ -15,7 +15,7 @@ This project implements a text classification model to automatically detect and 
 * **Modeling:** Training a **Naive Bayes** classifier for binary text classification (**Spam vs. Ham**).
 * **Validation:** Evaluating model robustness using **10-Fold Cross Validation**.
 
-## Key Results
+## 📈 Key Results
 
 * **Model:** Naive Bayes
 * **Test Accuracy:** **97.99%**
@@ -34,8 +34,11 @@ This project implements a text classification model to automatically detect and 
 | Spam (1) |      0.92 |   0.94 |     0.93 |
 
 * **Overall Accuracy:** **97.99%**
+## 🛠 Tech Stack
 
-## How to Run
+Python • Pandas • NumPy • Scikit-learn • NLTK
+
+## ▶️ How to Run
 
 Install dependencies:
 
